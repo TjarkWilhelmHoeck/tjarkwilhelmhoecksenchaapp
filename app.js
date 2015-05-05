@@ -146,8 +146,16 @@ Ext.create('Ext.data.TreeStore', {
                     html: [
                         '',
                         'Impressum <br>',
-                        "Name: Tjark Wilhelm Hoeck <br>",
-                        "Email: tjark.wilhelm.hoeck@mni.thm.de"
+                        //"Name: Tjark Wilhelm Hoeck <br>",
+                        //"Email: tjark.wilhelm.hoeck@mni.thm.de"
+			"Angaben gemäß § 5 TMG <br>",
+			"Tjark Wilhelm Hoeck <br>",
+			"Zum Kiessee 3<br>",
+			"29690 Schwarmstedt <br>",
+			"<strong>Vertreten durch: </strong><br>",
+			"Tjark Wilhelm Hoeck<br>",
+			"<strong>Kontakt:</strong> <br>",
+			"E-Mail: <a href='mailto:tjark.wilhelm.hoeck@mni.thm.de'>tjark.wilhelm.hoeck@mni.thm.de</a><br>"
                     ].join("")
                 }
             ]
